@@ -1,2 +1,12 @@
 # OS_survey
-Survey Project on the Attitudes and Practices towards Open Science among Chinese Researchers
+文件夹结构如下：
+
+—— 1_Protocol：存放知情同意书以及数据共享同意书
+
+—— 2_MaterialProc：存放问卷材料以及研究过程中使用的各种材料及工具（包括爬虫、参考文献以及推文、翻译等等）
+
+—— 3_RawData：存放原始数据以及预处理过后的数据
+
+—— 4_Analysis：存放数据分析的代码
+
+—— 5_Reports：存放各时期汇报的内容
